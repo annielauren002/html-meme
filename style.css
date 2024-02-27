@@ -1,0 +1,62 @@
+body {
+    background-color: black;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid whitesmoke;
+}
+
+h1{
+    color: white;
+    font-family: font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-size: 12;
+    text-transform: lowercase; 
+}
+
+.artist-img, #img.nakey{
+    width: 300;
+}
+
+
+#div-1{
+    padding-bottom: 20;
+    margin-bottom: 50;
+    align-items: center;
+}
+
+.button{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#div-2, #div-4, #div-6{
+    align-items: center;
+    background-color: #101010;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+#img.gift, #img.three-drinks, #img.wine{
+    width: 400;
+}
+
+#img.liver{
+    width: 350px;
+}
+
+#div-3, #div-5{
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
